@@ -7,6 +7,7 @@ Bikeshare.py
 ### Description
 This program reads from a selected CSV and calculates statistics with a command
 line interaction.
+Also made in Python
 
 ### Files used
 There are currently 4 files that this will take in- chicago.csv, washinton.CSV
@@ -15,3 +16,4 @@ bikeshare.py
 
 ### Credits
 Udacity.com
+definitely me
