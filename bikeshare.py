@@ -5,7 +5,8 @@ import datetime as dt
 import numpy as np
 
 """Why calendar library??  I wanted to try using some libraries that were not included after reading a lot of
-different articles and documentation.  I am sure this is the "hard" way to do a lot of these solutions"""
+different articles and documentation.  I am sure this is the "hard" way to do a lot of these solutions
+Thankfullt I don't really need it anymore!"""
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york': 'new_york_city.csv',
