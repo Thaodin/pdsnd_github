@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+10/23/2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+This program reads from a selected CSV and calculates statistics with a command
+line interaction.
 
 ### Files used
-Include the files used
+There are currently 4 files that this will take in- chicago.csv, washinton.CSV
+and new_york_city.csv.  The program is a python file labelled
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity.com
